@@ -1,0 +1,10 @@
+.main-bg-container {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7, #dd1264);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  font-family: Roboto;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
