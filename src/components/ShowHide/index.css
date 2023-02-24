@@ -7,4 +7,33 @@
   justify-content: center;
   align-items: center;
   color: white;
+  height: 100vh;
+}
+.container-show-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.name-card-container {
+  margin: 20px;
+  text-align: center;
+}
+.button-style {
+  background-color: white;
+  color: #dd1264;
+  padding: 5px 10px 5px 10px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.Show-Hide-container {
+  background-color: rgba(255, 255, 255, 0.459);
+  border-radius: 10px;
+  padding: 20px 5px 20px 5px;
+  margin: 10px;
+}
+.name-heading {
+  color: black;
 }
